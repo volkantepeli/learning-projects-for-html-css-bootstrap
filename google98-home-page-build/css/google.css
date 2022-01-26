@@ -1,0 +1,48 @@
+.gray {
+    background-color: #eeeeee
+    ;
+}
+.container {
+    width: 1350px;
+    height: 600px;
+}
+.img_box {
+    width: 1350;
+    height: 115px ;
+}
+.search_box {
+    width: 1350px;
+    height: 63px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 2px;
+}
+.box1 {
+    float: left;
+    width: 500px;
+    height: 65px;
+    background-color: #7ee5da;
+    margin-top: 1px;
+    margin-right: 1px;
+    padding-top: 10px;
+}
+.box2 {
+    float: left;
+    width: 346px;
+    height: 75px;
+    background-color: #70ccc2;
+    margin-top: 1px;
+    margin-right: 1px;
+}
+.box3 {
+    float: left;
+    width: 500px;
+    height: 75px;
+    background-color: #62b3aa;
+    margin-top: 1px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.v {
+    line-height: 0.7;
+}

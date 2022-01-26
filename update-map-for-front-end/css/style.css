@@ -1,0 +1,28 @@
+nav {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 20px;
+    text-align: center; 
+    color: #FF5403;
+}
+a {
+    text-align: right;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 20px;
+    color: black;
+}
+h2 {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 20px;
+    color: #1368a9;
+}
+article {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 20px;
+    color:#2c9bcb;
+
+}
+footer {
+    text-align: right;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 20px;
+}

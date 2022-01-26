@@ -1,0 +1,19 @@
+nav {
+    font-family: 'Rock Salt', cursive;
+    
+    font-size: xx-large;
+    color: #EDEDED;
+}
+body {
+    background-color:white;
+}
+.col {
+    background-color: black;
+}
+aside {
+    font-family: 'Rock Salt', cursive;
+    font-size: x-large;
+}
+.strong {
+    font-family: monospace;
+}
