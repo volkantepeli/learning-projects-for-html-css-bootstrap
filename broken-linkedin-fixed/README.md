@@ -1,5 +1,5 @@
 # linkedinbootstrapclone
-# instagrambootstrapclone
+
 ## Project purpose
 
 ```
