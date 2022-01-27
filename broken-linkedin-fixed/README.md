@@ -5,7 +5,7 @@
 ```
 To repeat the learned information by correcting the broken parts on the cloned linkedin using html, css and bootstrap technologies.
 ```
-## Broken instagram clone file
+## Broken linkedin clone file
 
 ```
 https://github.com/Kodluyoruz/taskforce/tree/main/bootstrap/odev3/bootstraplinkedinclone
